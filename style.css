@@ -1,0 +1,104 @@
+* {margin: 0;
+    padding: 0;
+  
+    box-sizing: border-box;}
+
+    .home {
+    width: 1511px;
+    height: 886px;
+    background-color: #fcfbf7;
+    padding-left: 87px;
+    padding-right: 65px;
+    padding-top: 39px;
+}
+    .logo__name {
+     font-weight: 600px;
+     font-size: 32px;
+     line-height: 45px;
+     color: #000000;
+     display: inline;
+}
+    .logo__img {
+    width: 32px;
+    height: 32px;
+}
+    ul {
+    display: inline;
+    margin-left: 352px; }
+
+    li {
+        display: inline;
+        font-size: 22px;
+        line-height: 21px;
+        color: #000000;
+        font-weight: 400;
+        margin-right: 56px;}
+            
+    input {
+            margin-left: 104px;
+        }
+    .basket {
+            width: 750px;
+            height: 712px;
+            position: absolute;
+            left: 650px;
+            top: 100px;}
+    .wrapper {
+          display: block;
+          width: 568px;
+          margin-top: 24px;}
+
+
+     h2 {
+         color: #ff7e00;
+         font-weight: 700px;
+         font-size: 125px;
+         line-height: 119px;
+         display: inline;}
+     h1 {
+           color: #2f2f2f;
+           font-weight: 700;
+           font-size: 52px;
+           line-height: 49px;
+           display: inline-block;
+           width: 211px;
+          margin-left: 18px;}
+          
+     .header__descr {
+            color: #909090;
+            font-size: 22px;
+            line-height: 31px;
+            font-weight: 400;
+            display: inline-block;
+            width: 568px;}
+
+            .btn__order {
+                background-color: #2f2f2f;
+                width: 188px;
+                height: 70px;
+                border: 1px solid #2f2f2f;
+                border-radius: 32px;
+                color: #f4ece1;
+                font-weight: 600;
+                font-size: 20px;}
+
+                .btn__wvideo 
+                    {font-weight: 600;
+                    font-size: 20px;
+                    line-height: 19px;
+                    color: #2f2f2f;
+                    background: none;
+                    border: none;
+                    cursor: pointer;
+                    margin-top: 44px;
+                    margin-left: 96px;}
+                    
+                    .wrapper {
+                        display: block;
+                        width: 568px;
+                        margin-top: 24px;
+                    }
+
+.company__deskr {
+    margin-top: 152px;
+}
